@@ -5,4 +5,5 @@
 ##### header 5
 ###### header 6
 
-Commit message: Made some headers to compare sizes.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
